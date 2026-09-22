@@ -10,7 +10,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Yash-nav-p)
   [![Email](https://img.shields.io/badge/Email-ynp2@sfu.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ynp2@sfu.ca)
   
-  **Computing Science Student @ Simon Fraser University | Full-Stack Developer | AI Enthusiast**
+  **Computing Science Student @ Simon Fraser University**
   
 </div>
 
